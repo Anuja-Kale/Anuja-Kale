@@ -10,7 +10,7 @@ A passionate Full Stack Engineer with a keen interest in developing scalable web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuja--kale-blue)](https://www.linkedin.com/in/anuja-kale-350b061a7/)
 
 ## Languages and Tools:
-![Python](https://img.shields.io/pypi/pyversions/:packageName)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853D?style=flat-square&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Expressjs-404D59?style=flat-square)
