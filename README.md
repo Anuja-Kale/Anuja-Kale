@@ -1,7 +1,5 @@
 # Hi 👋, I'm Anuja Kale
 
-![Profile Banner](URL_of_your_banner_image)
-
 A passionate Full Stack Engineer with a keen interest in developing scalable web applications and working with modern cloud infrastructures.
 
 - 🌱 I’m currently learning more about cloud architectures and microservices.
