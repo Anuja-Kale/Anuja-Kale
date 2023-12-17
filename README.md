@@ -4,6 +4,7 @@ A passionate Full Stack Engineer with a keen interest in developing scalable web
 
 - 🌱 I’m currently learning more about cloud architectures and microservices.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuja-kale-350b061a7/)
+- ✉️ Email me at: [kale.an@northeastern.edu](mailto:kale.an@northeastern.edu)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuja--kale-blue)](https://www.linkedin.com/in/anuja-kale-350b061a7/)
@@ -25,5 +26,3 @@ A passionate Full Stack Engineer with a keen interest in developing scalable web
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-
-
