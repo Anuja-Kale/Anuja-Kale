@@ -3,7 +3,6 @@
 A passionate Full Stack Engineer with a keen interest in developing scalable web applications and working with modern cloud infrastructures.
 
 - 🌱 I’m currently learning more about cloud architectures and microservices.
-- 💬 Ask me about anything related to JavaScript, Python, or cloud computing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuja-kale-350b061a7/)
 
 ## Connect with me:
