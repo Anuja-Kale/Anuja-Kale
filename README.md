@@ -26,3 +26,5 @@ A passionate Full Stack Engineer with a keen interest in developing scalable web
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
