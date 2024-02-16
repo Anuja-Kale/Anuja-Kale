@@ -1,8 +1,8 @@
 # Hi 👋, I'm Anuja Kale
 
-A passionate Full Stack Engineer with a keen interest in developing scalable web applications and working with modern cloud infrastructures.
+An enthusiastic Front-End Developer dedicated to crafting intuitive user experiences and engaging user interfaces. I am driven by the desire to create responsive and dynamic web applications with a focus on aesthetic and efficient design.
 
-- 🌱 I’m currently learning more about cloud architectures and microservices.
+- 🌱 I am currently deepening my knowledge of front-end frameworks and exploring the latest trends in UI/UX design.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuja-kale-350b061a7/)
 - ✉️ Email me at: [kale.an@northeastern.edu](mailto:kale.an@northeastern.edu)
 
