@@ -2,8 +2,7 @@
 
 An ambitious Full Stack Developer committed to building robust web applications from front to back. Fueled by a passion for seamless user experiences and efficient, scalable back-end solutions, I strive to develop applications that excel in both functionality and design.
 
-- 🌱 I am currently broadening my skills across the full stack landscape, enhancing my knowledge of back-end technologies while continuing to refine my proficiency in front-end 
-     frameworks.
+- 🌱 I'm currently enhancing my full stack capabilities, focusing on back-end technologies and front-end frameworks.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuja-kale-350b061a7/)
 - ✉️ Email me at: [kale.an@northeastern.edu](mailto:kale.an@northeastern.edu)
 
