@@ -5,7 +5,7 @@ An ambitious Frontend Developer committed to crafting engaging and intuitive web
 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuja-kale-350b061a7/)
-- ✉️ Email me at: [kale.an@northeastern.edu](mailto:anujakale16@gmail.com) 
+- ✉️ Email me at: [anujakale16@gmail.com](mailto:anujakale16@gmail.com) 
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuja--kale-blue)](https://www.linkedin.com/in/anuja-kale-350b061a7/)
