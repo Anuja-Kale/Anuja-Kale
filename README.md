@@ -3,13 +3,6 @@
 An ambitious Frontend Developer committed to crafting engaging and intuitive web experiences. Fueled by a passion for seamless user interfaces and responsive design, I strive to develop applications that excel in both aesthetics and functionality.
 
 
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anuja-kale-350b061a7/)
-- ✉️ Email me at: [anujakale16@gmail.com](mailto:anujakale16@gmail.com) 
-
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anuja--kale-blue)](https://www.linkedin.com/in/anuja-kale-350b061a7/)
-
 ## Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
